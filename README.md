@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer & Web Developer
 
-//![Biruk's Image](https://i.postimg.cc/gkfySyVr/picture.jpg)
+![Biruk's Image](https://i.postimg.cc/gkfySyVr/picture.jpg)
 
 
 ---
