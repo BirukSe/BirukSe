@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer & Web Developer
 
-![Bemnet's Image](https://postimg.cc/z3SBmnp6)
+![Biruk's Image](https://postimg.cc/z3SBmnp6)
 
 
 ---
@@ -52,7 +52,7 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 ---
 
 ### 🌟 GitHub Stats
-![Bemnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Biruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
@@ -60,7 +60,7 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [HandBook Social Media Project](https://github.com/BirukSe/Social-Media-Project) | Social media app using full stack | JavaScript |
-| [Weather Projext](biruke.netlify.app) | Weather checking project | JavaScript |
+| [Weather Projext](https://birukse.github.io/WeatherApp/) | Weather checking project | JavaScript |
 
 ---
 
