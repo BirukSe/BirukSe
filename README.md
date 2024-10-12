@@ -52,7 +52,7 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 ---
 
 ### 🌟 GitHub Stats
-![Biruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bemnet16&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Biruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BirukSe&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
