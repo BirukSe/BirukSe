@@ -1,6 +1,6 @@
-Hi ![]✌️ I'm Biruk Seyoum 
-
+# 👋 **Hello, I'm Biruk Seyoum**  
 ### 👨‍💻 Software Engineer & Web Developer
+
 
 
 
