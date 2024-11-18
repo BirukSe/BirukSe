@@ -14,7 +14,7 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 ### ✉️ You can contact me at [biruk.seyoum-ug@aau.edu.et](mailto:biruk.seyoum-ug@aau.edu.et)
 
 ### 🚀 I'm currently working on:
-**HandBook Social Media Project**
+Full Stack music streaming web application
 
 ### 🧠 I'm Currently Learning:
 - Cyber Security
@@ -59,8 +59,9 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 ### 📊 Pinned Projects
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
+| [Talkify Chat App Project](https://github.com/BirukSe/Talkify-ChatApp) | Fully functional real time chat application | JavaScript |
 | [HandBook Social Media Project](https://github.com/BirukSe/Social-Media-Project) | Social media app using full stack | JavaScript |
-| [Weather Projext](https://birukse.github.io/WeatherApp/) | Weather checking project | JavaScript |
+| [Weather Project](https://birukse.github.io/WeatherApp/) | Weather checking project | JavaScript |
 
 ---
 
