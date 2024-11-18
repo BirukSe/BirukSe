@@ -9,7 +9,7 @@
 
 I'm a driven and ambitious software engineer and penetration tester known for my hands-on project experience and dedication to innovative solutions. With a strong focus on goal-oriented outcomes and a talent for adapting quickly to new technologies, I thrive in collaborative environments, valuing teamwork and open communication. My approach combines effective time management, open-mindedness, and strategic decision-making, making me a reliable and dynamic contributor to any tech team.
 
-### 🖥️ [See my portfolio]()(Sorry this link is unavailable for now, I am updating my portfolio currenlyy)
+### 🖥️ [See my portfolio]()(Sorry this link is unavailable for now, I am updating my portfolio currenly)
 
 
 ### ✉️ You can contact me at [biruk.seyoum-ug@aau.edu.et](mailto:biruk.seyoum-ug@aau.edu.et)
