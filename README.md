@@ -52,10 +52,10 @@ Full Stack music streaming web application
 
 ---
 
-### 🌟 GitHub Stats
-![Biruk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahizkiel&show_icons=true&hide_title=true&count_private=true&theme=radical)
+**🌟 GitHub Stats**
 
----
+<a href="http://www.github.com/birukse"><img src="https://github-readme-stats.vercel.app/api?username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>
+
 
 ### 📊 Pinned Projects
 | Project Name | Description | Tech Stack |
