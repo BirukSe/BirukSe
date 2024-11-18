@@ -67,7 +67,7 @@ Full Stack music streaming web application
 ---
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-stats.vercel.app/api/graffiti?username=BirukSe&theme=radical)
+<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=facc15&background=14532d&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ---
 
