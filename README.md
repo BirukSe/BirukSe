@@ -17,6 +17,9 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 ### 🚀 I'm currently working on:
 Full Stack music streaming web application
 
+<img src="https://example.com/path-to-your-image.jpg" alt="Project Screenshot" width="400"/>
+
+
 ### 🧠 I'm Currently Learning:
 - Cyber Security
 - Cloud Computing
