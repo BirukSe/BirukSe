@@ -57,7 +57,7 @@ Full Stack music streaming web application
 
 **🌟 GitHub Stats**
 
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-stats.vercel.app/api?username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>
+<a href="http://www.github.com/birukse"><img src="https://github-readme-stats.vercel.app/api?username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>
 
 
 ### 📊 Pinned Projects
