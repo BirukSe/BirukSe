@@ -57,7 +57,8 @@ Full Stack music streaming web application
 
 **🌟 GitHub Stats**
 
-<a href="http://www.github.com/birukse"><img src="https://github-readme-stats.vercel.app/api?username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>username=birukse&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="birukse's GitHub stats" /></a>
+
+<a href="http://www.github.com/BirukSe"><img src="https://github-readme-stats.vercel.app/api?username=BirukSe&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=facc15&icon_color=84cc16&bg_color=14532d&hide_border=true&show_icons=true" alt="BirukSe's GitHub stats" /></a>
 
 
 ### 📊 Pinned Projects
@@ -70,7 +71,7 @@ Full Stack music streaming web application
 ---
 
 ### 📈 Contribution Graph
-<a href="http://www.github.com/bemnet16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bemnet16&stroke=facc15&background=14532d&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="http://www.github.com/BirukSe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BirukSe&stroke=facc15&background=14532d&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ---
 
