@@ -63,7 +63,7 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 
 ---
 ### 📊 Contributions
-[![Biruk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BirukSe&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/BirukSe)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BirukSe&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
