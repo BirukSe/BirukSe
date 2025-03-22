@@ -8,9 +8,8 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 ### ✉️ You can contact me at [biruk.seyoum-ug@aau.edu.et](mailto:biruk.seyoum-ug@aau.edu.et)
 
 ### 🚀 I'm currently working on:
-**Full Stack Music Streaming Web Application**
+**Kotlin + JetPack Project codebase**
 
-<img src="newProj.png" alt="Project Screenshot" width="400"/>
 
 ### 🧠 I'm Currently Learning:
 - Cyber Security  
