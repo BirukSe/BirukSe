@@ -1,5 +1,5 @@
 # 👋 **Hello, I'm Biruk Seyoum**  
-### 👨‍💻 Software Engineer & Web Developer
+### 👨‍💻 Flutter Developer
 
 ---
 
