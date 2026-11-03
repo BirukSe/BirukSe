@@ -7,8 +7,6 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 
 ### ✉️ You can contact me at [biruk.seyoum-ug@aau.edu.et](mailto:biruk.seyoum-ug@aau.edu.et)
 
-### 🚀 I'm currently working on:
-**Kotlin + JetPack Project codebase**
 
 
 ### 🧠 I'm Currently Learning:
