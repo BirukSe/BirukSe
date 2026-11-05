@@ -9,12 +9,6 @@ I'm a driven and ambitious software engineer and penetration tester known for my
 
 
 
-### 🧠 I'm Currently Learning:
-- Cyber Security  
-- Cloud Computing  
-
----
-
 ### 💻 Skills
 - Python  
 - JavaScript  
